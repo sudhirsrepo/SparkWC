@@ -1,0 +1,24 @@
+products:
+   src/main/scala/Library.java -> build/classes/main/Library.class
+   src/main/scala/com/sudhir/scala/spark/WordCount.scala -> build/classes/main/com/sudhir/scala/spark/WordCount$$anonfun$1.class
+   src/main/scala/com/sudhir/scala/spark/WordCount.scala -> build/classes/main/com/sudhir/scala/spark/WordCount$$anonfun$2.class
+   src/main/scala/com/sudhir/scala/spark/WordCount.scala -> build/classes/main/com/sudhir/scala/spark/WordCount$$anonfun$3.class
+   src/main/scala/com/sudhir/scala/spark/WordCount.scala -> build/classes/main/com/sudhir/scala/spark/WordCount$.class
+   src/main/scala/com/sudhir/scala/spark/WordCount.scala -> build/classes/main/com/sudhir/scala/spark/WordCount$delayedInit$body.class
+   src/main/scala/com/sudhir/scala/spark/WordCount.scala -> build/classes/main/com/sudhir/scala/spark/WordCount.class
+binary dependencies:
+   src/main/scala/Library.java -> /Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/rt.jar
+   src/main/scala/com/sudhir/scala/spark/WordCount.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/rt.jar
+   src/main/scala/com/sudhir/scala/spark/WordCount.scala -> /Users/sudhir/.gradle/caches/modules-2/files-2.1/org.apache.spark/spark-core_2.11/2.0.1/24e444b12e93bf78758a8cc0293f814c01a03971/spark-core_2.11-2.0.1.jar
+   src/main/scala/com/sudhir/scala/spark/WordCount.scala -> /Users/sudhir/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.8/ddd5a8bced249bedd86fb4578a39b9fb71480573/scala-library-2.11.8.jar
+source dependencies:
+   src/main/scala/Library.java -> src/main/scala/Library.java
+external dependencies:
+class names:
+   src/main/scala/Library.java -> Library
+   src/main/scala/com/sudhir/scala/spark/WordCount.scala -> com.sudhir.scala.spark.WordCount
+   src/main/scala/com/sudhir/scala/spark/WordCount.scala -> com.sudhir.scala.spark.WordCount$
+   src/main/scala/com/sudhir/scala/spark/WordCount.scala -> com.sudhir.scala.spark.WordCount$$anonfun$1
+   src/main/scala/com/sudhir/scala/spark/WordCount.scala -> com.sudhir.scala.spark.WordCount$$anonfun$2
+   src/main/scala/com/sudhir/scala/spark/WordCount.scala -> com.sudhir.scala.spark.WordCount$$anonfun$3
+   src/main/scala/com/sudhir/scala/spark/WordCount.scala -> com.sudhir.scala.spark.WordCount$delayedInit$body
